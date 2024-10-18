@@ -1,1 +1,2 @@
-# InvoiceMg-PHP
+# phpmyInvoice1
+formerly InvoiceMg-PHP
