@@ -1,2 +1,2 @@
 # phpmyInvoice1
-formerly InvoiceMg-PHP
+formerly InvoiceMg-PHP, Works fine on php7.2.33.
